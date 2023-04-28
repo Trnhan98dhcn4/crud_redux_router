@@ -1,0 +1,11 @@
+.wapper-todo {
+  height: 80vh;
+  background: wheat;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.title-Item-todo {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
